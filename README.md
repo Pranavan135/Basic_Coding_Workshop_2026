@@ -130,6 +130,10 @@ Please take a moment to fill out our short survey.
 #### 🔗 click the link below
 [Take the Survey of Session I](https://forms.cloud.microsoft/r/CVAvFJ1Ymh?origin=lprLink)
 
+[Take the Survey of Session II]([https://forms.cloud.microsoft/r/CVAvFJ1Ymh?origin=lprLink](https://forms.cloud.microsoft/r/ajEN3vpeQL?origin=lprLink))
+
+
+
 ## Feedback
 If you have any questions about the workshop, feel free to contact Dr Feng LIN at feng_lin@nus.edu.sg 
 
