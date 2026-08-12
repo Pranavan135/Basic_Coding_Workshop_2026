@@ -127,10 +127,12 @@ Please take a moment to fill out our short survey.
 ![Survey QR Code](Survey/qr_code_session2.png)
 -->
 
-#### 🔗 click the link below
-[Take the Survey of Session I](https://forms.cloud.microsoft/r/CVAvFJ1Ymh?origin=lprLink)
+#### 🔗 Please click the links below to complete the corresponding session survey:
+* 📝 **[Session I Survey](https://forms.cloud.microsoft/r/CVAvFJ1Ymh?origin=lprLink)**
 
-[Take the Survey of Session II]([https://forms.cloud.microsoft/r/CVAvFJ1Ymh?origin=lprLink](https://forms.cloud.microsoft/r/ajEN3vpeQL?origin=lprLink))
+* 📝 **[Session II Survey](https://forms.cloud.microsoft/r/ajEN3vpeQL?origin=lprLink)**
+
+**Thank you for your feedback!**
 
 
 
