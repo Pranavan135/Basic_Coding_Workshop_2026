@@ -118,6 +118,23 @@ By the end of Session II, students should be able to:
 
 ---
 
+### 📝 Feedback Survey
+
+We value your feedback!  
+Please take a moment to fill out our short survey.
+
+<!-- #### 📱 Scan the QR Code
+![Survey QR Code](Survey/qr_code_session2.png)
+-->
+
+#### 🔗 click the link below
+[Take the Survey of Session I]([https://forms.office.com/r/82GGhUESxZ?origin=lprLink](https://forms.cloud.microsoft/r/CVAvFJ1Ymh?origin=lprLink))
+
+## Feedback
+If you have any questions about the workshop, feel free to contact Dr Feng LIN at feng_lin@nus.edu.sg 
+
+---
+
 We look forward to seeing you there!
 
 Let's make coding less intimidating — and a lot more fun. 🚀
